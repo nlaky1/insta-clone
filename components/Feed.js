@@ -38,9 +38,9 @@ function Feed() {
             This is not real app this for portfolio purpose
           </p>
 
-          <button className="py-2.5 px-5 mr-2 mb-2 text-sm font-medium text-white focus:outline-none bg-blue-700 rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-blue-400 dark:bg-blue-500 light:text-white-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700
+          <button className="py-2.5 pt-10 px-5 mr-2 mb-2 text-sm font-medium text-white focus:outline-none bg-blue-700 rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-blue-400 dark:bg-blue-500 light:text-white-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700
             " onClick={signIn}>
-              Sign in with Goodle
+              Sign in with Google
             </button>
         </div>
       )}
